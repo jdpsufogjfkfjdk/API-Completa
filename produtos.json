@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Lamborghini Miura sv",
+        "description": "Lamborghini retro azul",
+        "price": 15.00,
+        "image": "img/carrinho1.jpg"
+    },
+    {
+        "name": "Roadster Bite",
+        "description": "Ideal para quem busca um carro que capte a essência do automobilismo esportivo e se destaque em qualquer coleção.",
+        "price": 22.90,
+        "image": "img/carrinho2.jpg"
+    },
+    {
+        "name": "Manga Tuner",
+        "description": "Ideal para quem busca um carro que não só se destaca na pista, mas também exibe um estilo único e vibrante na coleção.",
+        "price": 34.90,
+        "image": "img/carrinho3.jpg"
+    },
+    {
+        "name": "BR1433",
+        "description": "Ideal para colecionadores e entusiastas que apreciam um veículo com um toque de sofisticação e desempenho",
+        "price": 149.90,
+        "image": "img/carrinho4.jpg"
+    },
+    {
+        "name": "5785",
+        "description": "Ideal para colecionadores que buscam um carro que mistura estilo arrojado com uma sensação de potência e movimento, o 5785 é uma adição valiosa para qualquer coleção e um destaque garantido em exibições.",
+        "price": 19.99,
+        "image": "img/carrinho5.jpg"
+    },
+    {
+        "name": "Dessert Drifter",
+        "description": "Catarro car, especifico para colecionadores",
+        "price": 22.90,
+        "image": "img/carrinho6.jpg"
+    }
+]
